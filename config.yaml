@@ -1,0 +1,7 @@
+base:
+ port: 8082
+
+database:
+   userName: root
+   dbName: interior_outlook
+   password: M!thas8733
